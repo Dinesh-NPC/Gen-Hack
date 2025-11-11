@@ -105,5 +105,5 @@ This project is open source. Refer to the `LICENSE` file for details.
 
 ## 👤 Author
 
-Built with ❤️ by [Your Name]  
+Built with ❤️ by T Dinesh Kumar
 🔗 LinkedIn: https://www.linkedin.com/in/dinesh-kumar-kct
