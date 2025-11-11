@@ -140,3 +140,7 @@ This project is open source. Please check the license file for details.
 ---
 
 **Relive your memories, reimagine your stories.** 🧠✨
+
+## 📸 Screenshots
+
+<!-- Add screenshots here -->
