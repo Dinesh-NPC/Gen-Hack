@@ -1,0 +1,14 @@
+streamlit
+langchain
+openai
+chromadb
+pypdf
+python-docx
+sentence-transformers
+pillow
+openai-whisper
+gtts
+moviepy
+opencv-python
+torch
+transformers
